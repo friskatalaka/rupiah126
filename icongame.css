@@ -1,0 +1,44 @@
+
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a{
+    position: relative;
+    width: 95px;
+    height: 85px;
+    margin: 0 .2rem;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:after{
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 105%;
+        height: 95%;
+        z-index: 1;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:first-child:after{
+        background: url(https://takenupload.com/rupiah126-togell );
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:nth-child(2):after{
+        background: url(https://takenupload.com/rupiah126-slot);
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:nth-child(3):after{
+        background: url(https://takenupload.com/rupiah126-casino);
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:nth-child(4):after{
+        background: url(https://takenupload.com/rupiah126-sportbook);
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:nth-child(5):after{
+        background: url(https://takenupload.com/rupiah126-sabung-ayam);
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:nth-child(6):after{
+        background: url(https://takenupload.com/rupiah126-tembak-ikan);
+        background-size: 100% 100%;
+    }
+    body>div:nth-of-type(4)>div:nth-child(4)#main_menu_outer_container main a:last-child:after{
+        background: url(https://takenupload.com/rupiah126-virtual);
+        background-size: 100% 100%;
+    }
